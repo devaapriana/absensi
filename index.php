@@ -74,7 +74,7 @@ if(isset($_POST["submit2"])){
 			</aside>
 
 			<section class="content">
-				<h1>Aplikasi Absensi Kelas</h1>
+				<h1>Aplikasi Absensi</h1>
 				<br><br>
 				<p><a href="tambah.php"><i class="far fa-plus-square"> tambah data siswa</i></a></p>
 				<div class="tabel">

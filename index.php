@@ -89,7 +89,7 @@ if(isset($_POST["submit2"])){
 								</tr>
 								
 								<tr>
-									<td>DEVA ?></td>
+									<td>Depol</td>
 								</tr>
 
 							</table>

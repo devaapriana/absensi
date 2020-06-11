@@ -59,7 +59,9 @@ if(isset($_POST["submit2"])){
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
+
 				<a class="navbar-brand" href="#">Logo</a>
+
 			</div>
 		</nav>
 
